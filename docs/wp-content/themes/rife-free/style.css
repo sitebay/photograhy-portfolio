@@ -5735,52 +5735,52 @@ body.single-album-scroller.site-layout-boxed #mid{
 
 /* columns */
 /* how to calculate below numbers - still unknown :-( */
-.cells .carousel-cell {
+.cells_20 .carousel-cell {
 	width: 20%;
 }
-.cells.parallax .carousel-cell div.img{
+.cells_20.parallax .carousel-cell div.img{
 	width: 232%;
 	left: -66%;
 }
-.cells .carousel-cell {
+.cells_25 .carousel-cell {
 	width: 25%;
 }
-.cells.parallax .carousel-cell div.img{
+.cells_25.parallax .carousel-cell div.img{
 	width: 199%;
 	left: -49%;
 }
-.cells .carousel-cell {
+.cells_33 .carousel-cell {
 	width: 33%;
 }
-.cells.parallax .carousel-cell div.img{
+.cells_33.parallax .carousel-cell div.img{
 	width: 166%;
 	left: -33%;
 }
-.cells .carousel-cell {
+.cells_50 .carousel-cell {
 	width: 50%;
 }
-.cells.parallax .carousel-cell div.img{
+.cells_50.parallax .carousel-cell div.img{
 	width: 133%;
 	left: -16%;
 }
-.cells .carousel-cell {
+.cells_66 .carousel-cell {
 	width: 66%;
 }
-.cells.parallax .carousel-cell div.img{
+.cells_66.parallax .carousel-cell div.img{
 	width: 116%;
 	left: -8%;
 }
-.cells .carousel-cell {
+.cells_75 .carousel-cell {
 	width: 75%;
 }
-.cells.parallax .carousel-cell div.img{
+.cells_75.parallax .carousel-cell div.img{
 	width: 110%;
 	left: -5%;
 }
-.cells .carousel-cell {
+.cells_90 .carousel-cell {
 	width: 90%;
 }
-.cells.parallax .carousel-cell div.img{
+.cells_90.parallax .carousel-cell div.img{
 	width: 103%;
 	left: -1%;
 }
